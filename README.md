@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, eu sou o André Ribeiro.
 
-<!--
-**AndreRibeiro-Projects/AndreRibeiro-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inicializando meus aprendizados em programação!
 
-Here are some ideas to get you started:
+Começando em Shell e C, ficando maravilhado a cada nova compilação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/AndreRibeiro-Projects">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreRibeiro-Projects&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRibeiro-Projects&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+
